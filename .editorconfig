@@ -1,0 +1,7 @@
+[*.py]
+# isort settings
+multi_line_output=3
+order_by_type=True
+from_first=True
+use_parentheses=True
+force_alphabetical_sort=True
