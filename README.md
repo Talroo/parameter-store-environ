@@ -11,7 +11,7 @@ For more on Parameter Store, read the [AWS documentation](https://docs.aws.amazo
 Install with `pip`:
 
 ``` bash
-pip install ssm-parameter-store
+pip install parameter-store-environ 
 ```
 
 ## Usage
